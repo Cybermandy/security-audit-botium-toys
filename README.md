@@ -17,7 +17,7 @@ The audit covers:
 - E-commerce operations  
 
 ## Objectives
-- Identify vulnerabilities and security risks  
+- Identify vulnerabilities and security risk  
 - Evaluate existing security controls  
 - Assess compliance with regulatory standards  
 - Recommend improvements to strengthen security posture  
